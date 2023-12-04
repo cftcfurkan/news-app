@@ -2,7 +2,7 @@
 ![image](https://github.com/cftcfurkan/news-app/assets/90473630/4c1e2e19-a677-478c-a322-3c01e50621bf)
 
 
-# news-app - Expense Sharing and Debt Tracking App
+# news-app
 This project is a news application built with React that allows users to browse and search for news articles. It utilizes Material-UI for styling components and Axios for handling API requests.
 
 ## Features
