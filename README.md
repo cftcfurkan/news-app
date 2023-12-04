@@ -6,16 +6,16 @@
 This project is a news application built with React that allows users to browse and search for news articles. It utilizes Material-UI for styling components and Axios for handling API requests.
 
 ## Features
-# Browse news articles
-# Search for specific news using a search bar
-# Utilizes React hooks for managing state
-# Material-UI for styling components
-# Axios for handling API requests
+ Browse news articles
+ Search for specific news using a search bar
+ Utilizes React hooks for managing state
+ Material-UI for styling components
+ Axios for handling API requests
 
 ## Technologies Used
-# React
-# Material-UI
-# Axios
+ React
+ Material-UI
+ Axios
 
 ## Installation
 Explain how to install the project in a local environment. Include the necessary steps to install dependencies or start the project.
