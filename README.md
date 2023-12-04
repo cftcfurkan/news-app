@@ -13,9 +13,9 @@ This project is a news application built with React that allows users to browse 
  Axios for handling API requests
 
 ## Technologies Used
- React
- Material-UI
- Axios
+ - React
+ - Material-UI
+ - Axios
 
 ## Installation
 Explain how to install the project in a local environment. Include the necessary steps to install dependencies or start the project.
